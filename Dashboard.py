@@ -743,7 +743,7 @@ def visualization():
         "#### The code for this data preprocessing and Model training is available on [Kaggle](https://www.kaggle.com/code/medoox369/analysis-of-car-sales-data) and [Colab](https://colab.research.google.com/drive/1XytnbEiKLBumHjccO3L8KSjfrrazRBRa?usp=sharing)"
     )
     st.write(
-        "#### To see the Power BI dashboard [Click Here](https://app.powerbi.com/view?r=eyJrIjoiYjlhOTVkNjQtOTlmYi00YTdmLWE0YzMtNzkwZjU3NWYzYzMxIiwidCI6ImNmNzIyMWNkLTNiYzYtNDEwMS04NzYyLTU0ZjQ0ZjNiYzg5YSIsImMiOjl9&pageName=1dc7b6d5a2a1b423a6cb)"
+        "#### To see the Power BI dashboard [Click Here](https://app.powerbi.com/view?r=eyJrIjoiYjlhOTVkNjQtOTlmYi00YTdmLWE0YzMtNzkwZjU3NWYzYzMxIiwidCI6ImNmNzIyMWNkLTNiYzYtNDEwMS04NzYyLTU0ZjQ0ZjNiYzg5YSIsImMiOjl9&pageName=1dc7b6d5a2a1b423a6cb) and to see the Excel dashboard [Click Here](https://drive.google.com/file/d/1W0CGvm8SCi1Lrtfe2wBWOkuNqE5WnpMH/view?usp=sharing)"
     )
     st.write("______________")
 
@@ -969,7 +969,7 @@ def report():
         "#### The code for this data preprocessing and Model training is available on [Kaggle](https://www.kaggle.com/code/medoox369/analysis-of-car-sales-data) and [Colab](https://colab.research.google.com/drive/1XytnbEiKLBumHjccO3L8KSjfrrazRBRa?usp=sharing)"
     )
     st.write(
-        "#### To see the Power BI dashboard [Click Here](https://app.powerbi.com/view?r=eyJrIjoiYjlhOTVkNjQtOTlmYi00YTdmLWE0YzMtNzkwZjU3NWYzYzMxIiwidCI6ImNmNzIyMWNkLTNiYzYtNDEwMS04NzYyLTU0ZjQ0ZjNiYzg5YSIsImMiOjl9&pageName=1dc7b6d5a2a1b423a6cb)"
+        "#### To see the Power BI dashboard [Click Here](https://app.powerbi.com/view?r=eyJrIjoiYjlhOTVkNjQtOTlmYi00YTdmLWE0YzMtNzkwZjU3NWYzYzMxIiwidCI6ImNmNzIyMWNkLTNiYzYtNDEwMS04NzYyLTU0ZjQ0ZjNiYzg5YSIsImMiOjl9&pageName=1dc7b6d5a2a1b423a6cb) and to see the Excel dashboard [Click Here](https://drive.google.com/file/d/1W0CGvm8SCi1Lrtfe2wBWOkuNqE5WnpMH/view?usp=sharing)"
     )
 
 
@@ -1362,7 +1362,7 @@ def Predictions():
         "#### The code for this data preprocessing and Model training is available on [Kaggle](https://www.kaggle.com/code/medoox369/analysis-of-car-sales-data) and [Colab](https://colab.research.google.com/drive/1XytnbEiKLBumHjccO3L8KSjfrrazRBRa?usp=sharing)"
     )
     st.write(
-        "#### To see the Power BI dashboard [Click Here](https://app.powerbi.com/view?r=eyJrIjoiYjlhOTVkNjQtOTlmYi00YTdmLWE0YzMtNzkwZjU3NWYzYzMxIiwidCI6ImNmNzIyMWNkLTNiYzYtNDEwMS04NzYyLTU0ZjQ0ZjNiYzg5YSIsImMiOjl9&pageName=1dc7b6d5a2a1b423a6cb)"
+        "#### To see the Power BI dashboard [Click Here](https://app.powerbi.com/view?r=eyJrIjoiYjlhOTVkNjQtOTlmYi00YTdmLWE0YzMtNzkwZjU3NWYzYzMxIiwidCI6ImNmNzIyMWNkLTNiYzYtNDEwMS04NzYyLTU0ZjQ0ZjNiYzg5YSIsImMiOjl9&pageName=1dc7b6d5a2a1b423a6cb) and to see the Excel dashboard [Click Here](https://drive.google.com/file/d/1W0CGvm8SCi1Lrtfe2wBWOkuNqE5WnpMH/view?usp=sharing)"
     )
 
 
@@ -1396,6 +1396,10 @@ def contact():
     st.write("______________")
     st.write(
         "### For inquiries or more information about me, contact me at: [WhatsApp](https://wa.me/+201276977748) | [LinkedIn](https://www.linkedin.com/in/medoox369) | [GitHub](https://github.com/medoox369) | [Email](mailto:https://medoox369@gmail.com) | [Kaggle](https://www.kaggle.com/medoox369)"
+    )
+    st.write("______________")
+    st.write(
+        "#### All ways to get to the code and Dashboard: [GitHub](https://github.com/medoox369/Analysis-of-Car-Sales-Data) | [Kaggle](https://www.kaggle.com/code/medoox369/analysis-of-car-sales-data) | [Colab](https://colab.research.google.com/drive/1XytnbEiKLBumHjccO3L8KSjfrrazRBRa?usp=sharing) | [Power BI](https://app.powerbi.com/view?r=eyJrIjoiYjlhOTVkNjQtOTlmYi00YTdmLWE0YzMtNzkwZjU3NWYzYzMxIiwidCI6ImNmNzIyMWNkLTNiYzYtNDEwMS04NzYyLTU0ZjQ0ZjNiYzg5YSIsImMiOjl9&pageName=1dc7b6d5a2a1b423a6cb) | [Excel](https://drive.google.com/file/d/1W0CGvm8SCi1Lrtfe2wBWOkuNqE5WnpMH/view?usp=sharing)"
     )
     st.write("______________")
     st.write("## End of Project")
