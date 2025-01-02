@@ -736,15 +736,7 @@ def visualization():
     st.write(
         "#### This dashboard was created by [Eng. Mohamed Nasr](https://www.linkedin.com/in/medoox369)."
     )
-    st.write(
-        "#### The code for this dashboard is available on [GitHub](https://github.com/medoox369/Analysis-of-Car-Sales-Data)"
-    )
-    st.write(
-        "#### The code for this data preprocessing and Model training is available on [Kaggle](https://www.kaggle.com/code/medoox369/analysis-of-car-sales-data) and [Colab](https://colab.research.google.com/drive/1XytnbEiKLBumHjccO3L8KSjfrrazRBRa?usp=sharing)"
-    )
-    st.write(
-        "#### To see the Power BI dashboard [Click Here](https://app.powerbi.com/view?r=eyJrIjoiYjlhOTVkNjQtOTlmYi00YTdmLWE0YzMtNzkwZjU3NWYzYzMxIiwidCI6ImNmNzIyMWNkLTNiYzYtNDEwMS04NzYyLTU0ZjQ0ZjNiYzg5YSIsImMiOjl9&pageName=1dc7b6d5a2a1b423a6cb) and to see the Excel dashboard [Click Here](https://drive.google.com/file/d/1W0CGvm8SCi1Lrtfe2wBWOkuNqE5WnpMH/view?usp=sharing)"
-    )
+    st.write("#### All ways to get to the code, Dashboard and Report: [GitHub](https://github.com/medoox369/Analysis-of-Car-Sales-Data) | [Kaggle](https://www.kaggle.com/code/medoox369/analysis-of-car-sales-data) | [Colab](https://colab.research.google.com/drive/1XytnbEiKLBumHjccO3L8KSjfrrazRBRa?usp=sharing) | [Power BI](https://app.powerbi.com/view?r=eyJrIjoiYjlhOTVkNjQtOTlmYi00YTdmLWE0YzMtNzkwZjU3NWYzYzMxIiwidCI6ImNmNzIyMWNkLTNiYzYtNDEwMS04NzYyLTU0ZjQ0ZjNiYzg5YSIsImMiOjl9&pageName=1dc7b6d5a2a1b423a6cb) | [Excel](https://drive.google.com/file/d/1g3l7SG-JCNLA5gdiPc6aPIFRJhTiINXv/view?usp=sharing) | [Report](https://docs.google.com/document/d/17wfT1_k_espW1u1Y-nqJzWZ5lPKsE-DN/edit?usp=sharing&ouid=116781748036556031868&rtpof=true&sd=true)")
     st.write("______________")
 
     st.write("## Thank You :smile:")
@@ -962,15 +954,9 @@ def report():
     st.write(
         "#### This dashboard was created by [Eng. Mohamed Nasr](https://www.linkedin.com/in/medoox369)."
     )
-    st.write(
-        "#### The code for this dashboard is available on [GitHub](https://github.com/medoox369/Analysis-of-Car-Sales-Data)"
-    )
-    st.write(
-        "#### The code for this data preprocessing and Model training is available on [Kaggle](https://www.kaggle.com/code/medoox369/analysis-of-car-sales-data) and [Colab](https://colab.research.google.com/drive/1XytnbEiKLBumHjccO3L8KSjfrrazRBRa?usp=sharing)"
-    )
-    st.write(
-        "#### To see the Power BI dashboard [Click Here](https://app.powerbi.com/view?r=eyJrIjoiYjlhOTVkNjQtOTlmYi00YTdmLWE0YzMtNzkwZjU3NWYzYzMxIiwidCI6ImNmNzIyMWNkLTNiYzYtNDEwMS04NzYyLTU0ZjQ0ZjNiYzg5YSIsImMiOjl9&pageName=1dc7b6d5a2a1b423a6cb) and to see the Excel dashboard [Click Here](https://drive.google.com/file/d/1W0CGvm8SCi1Lrtfe2wBWOkuNqE5WnpMH/view?usp=sharing)"
-    )
+    st.write("#### All ways to get to the code, Dashboard and Report: [GitHub](https://github.com/medoox369/Analysis-of-Car-Sales-Data) | [Kaggle](https://www.kaggle.com/code/medoox369/analysis-of-car-sales-data) | [Colab](https://colab.research.google.com/drive/1XytnbEiKLBumHjccO3L8KSjfrrazRBRa?usp=sharing) | [Power BI](https://app.powerbi.com/view?r=eyJrIjoiYjlhOTVkNjQtOTlmYi00YTdmLWE0YzMtNzkwZjU3NWYzYzMxIiwidCI6ImNmNzIyMWNkLTNiYzYtNDEwMS04NzYyLTU0ZjQ0ZjNiYzg5YSIsImMiOjl9&pageName=1dc7b6d5a2a1b423a6cb) | [Excel](https://drive.google.com/file/d/1g3l7SG-JCNLA5gdiPc6aPIFRJhTiINXv/view?usp=sharing) | [Report](https://docs.google.com/document/d/17wfT1_k_espW1u1Y-nqJzWZ5lPKsE-DN/edit?usp=sharing&ouid=116781748036556031868&rtpof=true&sd=true)")
+    st.write("______________")
+    st.write("## Thank You :smile:")
 
 
 import pandas as pd
@@ -1355,23 +1341,17 @@ def Predictions():
     st.write(
         "#### This dashboard was created by [Eng. Mohamed Nasr](https://www.linkedin.com/in/medoox369)."
     )
-    st.write(
-        "#### The code for this dashboard is available on [GitHub](https://github.com/medoox369/Analysis-of-Car-Sales-Data)"
-    )
-    st.write(
-        "#### The code for this data preprocessing and Model training is available on [Kaggle](https://www.kaggle.com/code/medoox369/analysis-of-car-sales-data) and [Colab](https://colab.research.google.com/drive/1XytnbEiKLBumHjccO3L8KSjfrrazRBRa?usp=sharing)"
-    )
-    st.write(
-        "#### To see the Power BI dashboard [Click Here](https://app.powerbi.com/view?r=eyJrIjoiYjlhOTVkNjQtOTlmYi00YTdmLWE0YzMtNzkwZjU3NWYzYzMxIiwidCI6ImNmNzIyMWNkLTNiYzYtNDEwMS04NzYyLTU0ZjQ0ZjNiYzg5YSIsImMiOjl9&pageName=1dc7b6d5a2a1b423a6cb) and to see the Excel dashboard [Click Here](https://drive.google.com/file/d/1W0CGvm8SCi1Lrtfe2wBWOkuNqE5WnpMH/view?usp=sharing)"
-    )
-
+    "#### All ways to get to the code, Dashboard and Report: [GitHub](https://github.com/medoox369/Analysis-of-Car-Sales-Data) | [Kaggle](https://www.kaggle.com/code/medoox369/analysis-of-car-sales-data) | [Colab](https://colab.research.google.com/drive/1XytnbEiKLBumHjccO3L8KSjfrrazRBRa?usp=sharing) | [Power BI](https://app.powerbi.com/view?r=eyJrIjoiYjlhOTVkNjQtOTlmYi00YTdmLWE0YzMtNzkwZjU3NWYzYzMxIiwidCI6ImNmNzIyMWNkLTNiYzYtNDEwMS04NzYyLTU0ZjQ0ZjNiYzg5YSIsImMiOjl9&pageName=1dc7b6d5a2a1b423a6cb) | [Excel](https://drive.google.com/file/d/1g3l7SG-JCNLA5gdiPc6aPIFRJhTiINXv/view?usp=sharing) | [Report](https://docs.google.com/document/d/17wfT1_k_espW1u1Y-nqJzWZ5lPKsE-DN/edit?usp=sharing&ouid=116781748036556031868&rtpof=true&sd=true)"
+    st.write("______________")
+    st.write("## Thank You :smile:")
 
 def contact():
     import streamlit as st
     import joblib
     from streamlit_option_menu import option_menu
     import os
-
+    st.write("# Contact")
+    st.write("______________")
     st.write("## About")
     st.write(
         "#### This dashboard was created by [Eng. Mohamed Nasr](https://www.linkedin.com/in/medoox369)."
@@ -1399,7 +1379,7 @@ def contact():
     )
     st.write("______________")
     st.write(
-        "#### All ways to get to the code and Dashboard: [GitHub](https://github.com/medoox369/Analysis-of-Car-Sales-Data) | [Kaggle](https://www.kaggle.com/code/medoox369/analysis-of-car-sales-data) | [Colab](https://colab.research.google.com/drive/1XytnbEiKLBumHjccO3L8KSjfrrazRBRa?usp=sharing) | [Power BI](https://app.powerbi.com/view?r=eyJrIjoiYjlhOTVkNjQtOTlmYi00YTdmLWE0YzMtNzkwZjU3NWYzYzMxIiwidCI6ImNmNzIyMWNkLTNiYzYtNDEwMS04NzYyLTU0ZjQ0ZjNiYzg5YSIsImMiOjl9&pageName=1dc7b6d5a2a1b423a6cb) | [Excel](https://drive.google.com/file/d/1W0CGvm8SCi1Lrtfe2wBWOkuNqE5WnpMH/view?usp=sharing)"
+        "#### All ways to get to the code, Dashboard and Report: [GitHub](https://github.com/medoox369/Analysis-of-Car-Sales-Data) | [Kaggle](https://www.kaggle.com/code/medoox369/analysis-of-car-sales-data) | [Colab](https://colab.research.google.com/drive/1XytnbEiKLBumHjccO3L8KSjfrrazRBRa?usp=sharing) | [Power BI](https://app.powerbi.com/view?r=eyJrIjoiYjlhOTVkNjQtOTlmYi00YTdmLWE0YzMtNzkwZjU3NWYzYzMxIiwidCI6ImNmNzIyMWNkLTNiYzYtNDEwMS04NzYyLTU0ZjQ0ZjNiYzg5YSIsImMiOjl9&pageName=1dc7b6d5a2a1b423a6cb) | [Excel](https://drive.google.com/file/d/1g3l7SG-JCNLA5gdiPc6aPIFRJhTiINXv/view?usp=sharing) | [Report](https://docs.google.com/document/d/17wfT1_k_espW1u1Y-nqJzWZ5lPKsE-DN/edit?usp=sharing&ouid=116781748036556031868&rtpof=true&sd=true)"
     )
     st.write("______________")
     st.write("## End of Project")
